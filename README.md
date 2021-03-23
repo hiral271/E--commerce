@@ -30,13 +30,13 @@ task is to build the back end for an e-commerce site by modifying starter code.
 
 * category 
 
-
 ![Category.](https://github.com/hiral271/E--commerce-WEB-site/blob/main/view/Untitled_%20Mar%2022%2C%202021%2011_22%20PM.gif)
 
 * Tag 
 
-![Category.]( https://github.com/hiral271/E--commerce-WEB-site/blob/main/view/Untitled_%20Mar%2022%2C%202021%2011_22%20PM.gif)
+![Tag.]( https://github.com/hiral271/E--commerce-WEB-site/blob/main/view/Untitled_%20Mar%2022%2C%202021%2011_22%20PM.gif)
 
 
 * Product
-![Category.](https://github.com/hiral271/E--commerce-WEB-site/blob/main/view/Untitled_%20Mar%2023%2C%202021%2010_31%20AM.gif)
+* 
+![Product.](https://github.com/hiral271/E--commerce-WEB-site/blob/main/view/Untitled_%20Mar%2023%2C%202021%2010_31%20AM.gif)
