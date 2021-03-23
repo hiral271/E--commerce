@@ -25,3 +25,5 @@ task is to build the back end for an e-commerce site by modifying starter code.
 ## link for video gif
 * category 
 https://github.com/hiral271/E--commerce-WEB-site/blob/main/view/Untitled_%20Mar%2022%2C%202021%2011_22%20PM.gif
+
+![Category.](https://github.com/hiral271/E--commerce-WEB-site/blob/main/view/Untitled_%20Mar%2022%2C%202021%2011_22%20PM.gif)
