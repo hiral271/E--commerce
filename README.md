@@ -38,5 +38,5 @@ task is to build the back end for an e-commerce site by modifying starter code.
 
 
 * Product
-* 
+ 
 ![Product.](https://github.com/hiral271/E--commerce-WEB-site/blob/main/view/Untitled_%20Mar%2023%2C%202021%2010_31%20AM.gif)
